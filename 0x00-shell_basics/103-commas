@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -xmFa
+ls -xmpa
