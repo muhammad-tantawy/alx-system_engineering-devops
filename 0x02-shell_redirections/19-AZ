@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -s ac ze >hello
+tr -s Ac Ze
